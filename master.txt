@@ -2,3 +2,6 @@ the master file
 successful created
 /first commit/
 the first change
+
+/second commit/
+the second change
