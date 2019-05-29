@@ -2,3 +2,6 @@ the test file
 successful created
 /first test commit/
 the first test change
+
+/second test commit/
+the second test change
